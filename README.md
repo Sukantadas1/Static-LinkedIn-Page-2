@@ -1,3 +1,3 @@
 # Static-LinkedIn-Page-2
-# Contirbutor
-Textbook Skillacademy 
+# Details
+Organization Testbook Skill Academy
